@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "slab.h": "c",
+        "sched.h": "c",
+        "current.h": "c"
+    }
+}

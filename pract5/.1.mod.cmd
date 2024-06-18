@@ -1,0 +1,1 @@
+savedcmd_/home/om/Desktop/Submission/ELDD/pract5/1.mod := printf '%s\n'   1.o | awk '!x[$$0]++ { print("/home/om/Desktop/Submission/ELDD/pract5/"$$0) }' > /home/om/Desktop/Submission/ELDD/pract5/1.mod

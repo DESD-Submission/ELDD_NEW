@@ -1,0 +1,1 @@
+savedcmd_/home/om/Desktop/Submission/ELDD/pract4/multi.mod := printf '%s\n'   multi.o | awk '!x[$$0]++ { print("/home/om/Desktop/Submission/ELDD/pract4/"$$0) }' > /home/om/Desktop/Submission/ELDD/pract4/multi.mod

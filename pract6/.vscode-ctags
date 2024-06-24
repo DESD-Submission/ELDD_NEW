@@ -1,0 +1,68 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/om/Desktop/Submission/ELDD_NEW/pract6/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+LED_GPIO	gpio-intr/gpio-intr.c	/^#define LED_GPIO /;"	d	file:
+LED_GPIO	gpio-led/gpio-led.c	/^#define LED_GPIO /;"	d	file:
+LED_GPIO	gpio-switch/gpio-led-switch.c	/^#define LED_GPIO /;"	d	file:
+MAX	gpio-intr/gpio-intr.c	/^#define MAX /;"	d	file:
+MAX	gpio-led/gpio-led.c	/^#define MAX /;"	d	file:
+MAX	gpio-switch/gpio-led-switch.c	/^#define MAX /;"	d	file:
+SWITCH_GPIO	gpio-intr/gpio-intr.c	/^#define SWITCH_GPIO /;"	d	file:
+SWITCH_GPIO	gpio-switch/gpio-led-switch.c	/^#define SWITCH_GPIO /;"	d	file:
+all	gpio-intr/Makefile	/^all:$/;"	t
+all	gpio-led/Makefile	/^all:$/;"	t
+all	gpio-switch/Makefile	/^all:$/;"	t
+bbb_gpio_close	gpio-intr/gpio-intr.c	/^static int bbb_gpio_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_close	gpio-led/gpio-led.c	/^static int bbb_gpio_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_close	gpio-switch/gpio-led-switch.c	/^static int bbb_gpio_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_exit	gpio-intr/gpio-intr.c	/^static __exit void bbb_gpio_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+bbb_gpio_exit	gpio-led/gpio-led.c	/^static __exit void bbb_gpio_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+bbb_gpio_exit	gpio-switch/gpio-led-switch.c	/^static __exit void bbb_gpio_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+bbb_gpio_fops	gpio-intr/gpio-intr.c	/^static struct file_operations bbb_gpio_fops = {$/;"	v	typeref:struct:file_operations	file:
+bbb_gpio_fops	gpio-led/gpio-led.c	/^static struct file_operations bbb_gpio_fops = {$/;"	v	typeref:struct:file_operations	file:
+bbb_gpio_fops	gpio-switch/gpio-led-switch.c	/^static struct file_operations bbb_gpio_fops = {$/;"	v	typeref:struct:file_operations	file:
+bbb_gpio_init	gpio-intr/gpio-intr.c	/^static __init int bbb_gpio_init(void) {$/;"	f	typeref:typename:__init int	file:
+bbb_gpio_init	gpio-led/gpio-led.c	/^static __init int bbb_gpio_init(void) {$/;"	f	typeref:typename:__init int	file:
+bbb_gpio_init	gpio-switch/gpio-led-switch.c	/^static __init int bbb_gpio_init(void) {$/;"	f	typeref:typename:__init int	file:
+bbb_gpio_open	gpio-intr/gpio-intr.c	/^static int bbb_gpio_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_open	gpio-led/gpio-led.c	/^static int bbb_gpio_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_open	gpio-switch/gpio-led-switch.c	/^static int bbb_gpio_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_read	gpio-intr/gpio-intr.c	/^static ssize_t bbb_gpio_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_read	gpio-led/gpio-led.c	/^static ssize_t bbb_gpio_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_read	gpio-switch/gpio-led-switch.c	/^static ssize_t bbb_gpio_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_write	gpio-intr/gpio-intr.c	/^static ssize_t bbb_gpio_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_write	gpio-led/gpio-led.c	/^static ssize_t bbb_gpio_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_write	gpio-switch/gpio-led-switch.c	/^static ssize_t bbb_gpio_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset/;"	f	typeref:typename:ssize_t	file:
+cdev	gpio-intr/gpio-intr.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	gpio-led/gpio-led.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	gpio-switch/gpio-led-switch.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+clean	gpio-intr/Makefile	/^clean:$/;"	t
+clean	gpio-led/Makefile	/^clean:$/;"	t
+clean	gpio-switch/Makefile	/^clean:$/;"	t
+devno	gpio-intr/gpio-intr.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	gpio-led/gpio-led.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	gpio-switch/gpio-led-switch.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+irq	gpio-intr/gpio-intr.c	/^static int irq;$/;"	v	typeref:typename:int	file:
+led_state	gpio-intr/gpio-intr.c	/^static int led_state;$/;"	v	typeref:typename:int	file:
+led_state	gpio-led/gpio-led.c	/^static int led_state;$/;"	v	typeref:typename:int	file:
+led_state	gpio-switch/gpio-led-switch.c	/^static int led_state;$/;"	v	typeref:typename:int	file:
+main	gpio-led/led_test.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	gpio-switch/switch-led-test.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+major	gpio-intr/gpio-intr.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	gpio-led/gpio-led.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	gpio-switch/gpio-led-switch.c	/^static int major;$/;"	v	typeref:typename:int	file:
+obj-m	gpio-intr/Makefile	/^obj-m = gpio-intr.o$/;"	m
+obj-m	gpio-led/Makefile	/^obj-m = gpio-led.o$/;"	m
+obj-m	gpio-switch/Makefile	/^obj-m = gpio-led-switch.o$/;"	m
+pclass	gpio-intr/gpio-intr.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	gpio-led/gpio-led.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	gpio-switch/gpio-led-switch.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+switch_isr	gpio-intr/gpio-intr.c	/^static irqreturn_t switch_isr(int irq, void *param) {$/;"	f	typeref:typename:irqreturn_t	file:

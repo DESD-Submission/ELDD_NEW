@@ -1,0 +1,338 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/om/Desktop/Submission/ELDD_NEW/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+.phony	Makefile	/^.phony : clean$/;"	t
+.phony	PCHAR/SIR/Makefile	/^.phony : clean$/;"	t
+.phony	pract1/Makefile	/^.phony: modules clean$/;"	t
+.phony	pract2/Makefile	/^.phony: modules clean$/;"	t
+.phony	pract4/Makefile	/^.phony : clean$/;"	t
+.phony	pract5/Makefile	/^.phony : clean$/;"	t
+INCLUDE_VERMAGIC	pract4/multi.mod.c	/^#define INCLUDE_VERMAGIC$/;"	d	file:
+INCLUDE_VERMAGIC	pract5/1.mod.c	/^#define INCLUDE_VERMAGIC$/;"	d	file:
+LED_GPIO	pract6/gpio-intr/gpio-intr.c	/^#define LED_GPIO /;"	d	file:
+LED_GPIO	pract6/gpio-led/gpio-led.c	/^#define LED_GPIO /;"	d	file:
+LED_GPIO	pract6/gpio-switch/gpio-led-switch.c	/^#define LED_GPIO /;"	d	file:
+MAX	PCHAR/SIR/pchar.c	/^#define MAX /;"	d	file:
+MAX	PCHAR/SIR_PCHAR.c	/^#define MAX /;"	d	file:
+MAX	PCHAR/pchar.c	/^#define MAX /;"	d	file:
+MAX	pract4/multi.c	/^#define MAX /;"	d	file:
+MAX	pract4/one.c	/^#define MAX /;"	d	file:
+MAX	pract4/test.c	/^#define MAX /;"	d	file:
+MAX	pract5/1.c	/^#define MAX /;"	d	file:
+MAX	pract5/pchar.c	/^#define MAX /;"	d	file:
+MAX	pract5/semaphore.c	/^#define MAX /;"	d	file:
+MAX	pract6/gpio-intr/gpio-intr.c	/^#define MAX /;"	d	file:
+MAX	pract6/gpio-led/gpio-led.c	/^#define MAX /;"	d	file:
+MAX	pract6/gpio-switch/gpio-led-switch.c	/^#define MAX /;"	d	file:
+MQ_KEY	CLEAR.c	/^#define MQ_KEY	/;"	d	file:
+MQ_KEY	test.c	/^#define MQ_KEY /;"	d	file:
+SEM_KEY	CLEAR.c	/^#define SEM_KEY	/;"	d	file:
+SERV_IP	CLEAR.c	/^#define SERV_IP	/;"	d	file:
+SERV_PORT	CLEAR.c	/^#define SERV_PORT	/;"	d	file:
+SHM_KEY	CLEAR.c	/^#define SHM_KEY	/;"	d	file:
+SWITCH_GPIO	pract6/gpio-intr/gpio-intr.c	/^#define SWITCH_GPIO /;"	d	file:
+SWITCH_GPIO	pract6/gpio-switch/gpio-led-switch.c	/^#define SWITCH_GPIO /;"	d	file:
+__DEMO36_H	CLEAR.c	/^#define __DEMO36_H$/;"	d	file:
+__FILE3_H	pract3/3/3.h	/^#define __FILE3_H$/;"	d
+____versions	pract4/multi.mod.c	/^static const struct modversion_info ____versions[]$/;"	v	typeref:typename:const struct modversion_info[]__used __section ("__versions")	file:
+____versions	pract5/1.mod.c	/^static const struct modversion_info ____versions[]$/;"	v	typeref:typename:const struct modversion_info[]__used __section ("__versions")	file:
+__anondf8b363d0108	CLEAR.c	/^typedef struct {$/;"	s	file:
+__buf	CLEAR.c	/^	struct seminfo  *__buf;  \/* Buffer for IPC_INFO (Linux-specific) *\/$/;"	m	union:semun	typeref:struct:seminfo *	file:
+all	pract6/Makefile	/^all:$/;"	t
+all	pract6/gpio-intr/Makefile	/^all:$/;"	t
+all	pract6/gpio-led/Makefile	/^all:$/;"	t
+all	pract6/gpio-switch/Makefile	/^all:$/;"	t
+args	CLEAR.c	/^		char *args[]={ "firefox", "http:\/\/sunbeaminfo.in", NULL };$/;"	v	typeref:typename:char * []
+arr	CLEAR.c	/^	int arr[2], ret, s;$/;"	v	typeref:typename:int[2]
+arr	CLEAR.c	/^	int arr[2], ret;$/;"	v	typeref:typename:int[2]
+array	CLEAR.c	/^	unsigned short  *array;  \/* Array for GETALL, SETALL *\/$/;"	m	union:semun	typeref:typename:unsigned short *	file:
+bbb_gpio_close	pract6/gpio-intr/gpio-intr.c	/^static int bbb_gpio_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_close	pract6/gpio-led/gpio-led.c	/^static int bbb_gpio_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_close	pract6/gpio-switch/gpio-led-switch.c	/^static int bbb_gpio_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_exit	pract6/gpio-intr/gpio-intr.c	/^static __exit void bbb_gpio_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+bbb_gpio_exit	pract6/gpio-led/gpio-led.c	/^static __exit void bbb_gpio_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+bbb_gpio_exit	pract6/gpio-switch/gpio-led-switch.c	/^static __exit void bbb_gpio_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+bbb_gpio_exit	pract6/intr.c	/^static __exit void bbb_gpio_exit(void)$/;"	f	typeref:typename:__exit void	file:
+bbb_gpio_fops	pract6/gpio-intr/gpio-intr.c	/^static struct file_operations bbb_gpio_fops = {$/;"	v	typeref:struct:file_operations	file:
+bbb_gpio_fops	pract6/gpio-led/gpio-led.c	/^static struct file_operations bbb_gpio_fops = {$/;"	v	typeref:struct:file_operations	file:
+bbb_gpio_fops	pract6/gpio-switch/gpio-led-switch.c	/^static struct file_operations bbb_gpio_fops = {$/;"	v	typeref:struct:file_operations	file:
+bbb_gpio_init	pract6/gpio-intr/gpio-intr.c	/^static __init int bbb_gpio_init(void) {$/;"	f	typeref:typename:__init int	file:
+bbb_gpio_init	pract6/gpio-led/gpio-led.c	/^static __init int bbb_gpio_init(void) {$/;"	f	typeref:typename:__init int	file:
+bbb_gpio_init	pract6/gpio-switch/gpio-led-switch.c	/^static __init int bbb_gpio_init(void) {$/;"	f	typeref:typename:__init int	file:
+bbb_gpio_init	pract6/intr.c	/^static __init int bbb_gpio_init (void)$/;"	f	typeref:typename:__init int	file:
+bbb_gpio_open	pract6/gpio-intr/gpio-intr.c	/^static int bbb_gpio_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_open	pract6/gpio-led/gpio-led.c	/^static int bbb_gpio_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_open	pract6/gpio-switch/gpio-led-switch.c	/^static int bbb_gpio_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+bbb_gpio_read	pract6/gpio-intr/gpio-intr.c	/^static ssize_t bbb_gpio_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_read	pract6/gpio-led/gpio-led.c	/^static ssize_t bbb_gpio_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_read	pract6/gpio-switch/gpio-led-switch.c	/^static ssize_t bbb_gpio_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_write	pract6/gpio-intr/gpio-intr.c	/^static ssize_t bbb_gpio_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_write	pract6/gpio-led/gpio-led.c	/^static ssize_t bbb_gpio_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset/;"	f	typeref:typename:ssize_t	file:
+bbb_gpio_write	pract6/gpio-switch/gpio-led-switch.c	/^static ssize_t bbb_gpio_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset/;"	f	typeref:typename:ssize_t	file:
+buf	CLEAR.c	/^	struct semid_ds *buf;    \/* Buffer for IPC_STAT, IPC_SET *\/$/;"	m	union:semun	typeref:struct:semid_ds *	file:
+buf	PCHAR/SIR/pchar.c	/^char buf[MAX];$/;"	v	typeref:typename:char[]
+buf	PCHAR/SIR_PCHAR.c	/^char buf[MAX];$/;"	v	typeref:typename:char[]
+buf	PCHAR/pchar.c	/^char buf[MAX];$/;"	v	typeref:typename:char[]
+buf	pract4/multi.c	/^    struct kfifo buf;$/;"	m	struct:pchar_device	typeref:struct:kfifo	file:
+buf	pract4/one.c	/^static struct kfifo buf;$/;"	v	typeref:struct:kfifo	file:
+buf	pract4/test.c	/^static struct kfifo buf;$/;"	v	typeref:struct:kfifo	file:
+buf	pract5/1.c	/^    struct kfifo buf;$/;"	m	struct:pchar_device	typeref:struct:kfifo	file:
+buf	pract5/pchar.c	/^    struct kfifo buf;$/;"	m	struct:pchar_device	typeref:struct:kfifo	file:
+buf	pract5/semaphore.c	/^    struct kfifo buf;$/;"	m	struct:pchar_device	typeref:struct:kfifo	file:
+cdev	PCHAR/SIR/pchar.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	PCHAR/SIR_PCHAR.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	PCHAR/pchar.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	pract4/multi.c	/^    struct cdev cdev;$/;"	m	struct:pchar_device	typeref:struct:cdev	file:
+cdev	pract4/one.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	pract5/1.c	/^    struct cdev cdev;$/;"	m	struct:pchar_device	typeref:struct:cdev	file:
+cdev	pract5/pchar.c	/^    struct cdev cdev;$/;"	m	struct:pchar_device	typeref:struct:cdev	file:
+cdev	pract5/semaphore.c	/^    struct cdev cdev;$/;"	m	struct:pchar_device	typeref:struct:cdev	file:
+cdev	pract6/gpio-intr/gpio-intr.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	pract6/gpio-led/gpio-led.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cdev	pract6/gpio-switch/gpio-led-switch.c	/^static struct cdev cdev;$/;"	v	typeref:struct:cdev	file:
+cedv	pract4/test.c	/^static struct cdev cedv;$/;"	v	typeref:struct:cdev	file:
+clean	Makefile	/^clean:$/;"	t
+clean	PCHAR/Makefile	/^clean:$/;"	t
+clean	PCHAR/SIR/Makefile	/^clean:$/;"	t
+clean	pract1/Makefile	/^clean:$/;"	t
+clean	pract2/Makefile	/^clean:$/;"	t
+clean	pract3/1/Makefile	/^clean:$/;"	t
+clean	pract3/2/Makefile	/^clean:$/;"	t
+clean	pract3/3/Makefile	/^clean:$/;"	t
+clean	pract3/4/Makefile	/^clean:$/;"	t
+clean	pract4/Makefile	/^clean:$/;"	t
+clean	pract5/Makefile	/^clean:$/;"	t
+clean	pract6/Makefile	/^clean:$/;"	t
+clean	pract6/gpio-intr/Makefile	/^clean:$/;"	t
+clean	pract6/gpio-led/Makefile	/^clean:$/;"	t
+clean	pract6/gpio-switch/Makefile	/^clean:$/;"	t
+cleanup_module	pract1/HELLO.c	/^void cleanup_module(void)$/;"	f	typeref:typename:void
+cli_addr	CLEAR.c	/^	struct sockaddr_in serv_addr, cli_addr;$/;"	v	typeref:struct:sockaddr_in
+cli_fd	CLEAR.c	/^	int cli_fd, ret;$/;"	v	typeref:typename:int
+cli_fd	CLEAR.c	/^	int serv_fd, cli_fd, ret;$/;"	v	typeref:typename:int
+count	CLEAR.c	/^	int count;$/;"	m	struct:shm	typeref:typename:int	file:
+datard	CLEAR.c	/^	char datawr[32], datard[32];$/;"	v	typeref:typename:char[32]
+datawr	CLEAR.c	/^	char datawr[32], datard[32];$/;"	v	typeref:typename:char[32]
+desd_exit	pract2/2.c	/^static __exit void desd_exit(void)$/;"	f	typeref:typename:__exit void	file:
+desd_exit	pract3/1/1.c	/^static __exit void desd_exit(void)$/;"	f	typeref:typename:__exit void	file:
+desd_exit	pract3/2/3.c	/^static __exit void desd_exit(void)$/;"	f	typeref:typename:__exit void	file:
+desd_exit	pract3/3/2.c	/^static __exit void desd_exit(void)$/;"	f	typeref:typename:__exit void	file:
+desd_init	pract2/2.c	/^static __init int desd_init(void)$/;"	f	typeref:typename:__init int	file:
+desd_init	pract3/1/1.c	/^static __init int desd_init(void)$/;"	f	typeref:typename:__init int	file:
+desd_init	pract3/2/2.c	/^static __init int desd_init(void)$/;"	f	typeref:typename:__init int	file:
+desd_init	pract3/3/1.c	/^static __init int desd_init(void)$/;"	f	typeref:typename:__init int	file:
+devcnt	pract4/multi.c	/^static int devcnt = 3;$/;"	v	typeref:typename:int	file:
+devcnt	pract5/1.c	/^static int devcnt = 3;$/;"	v	typeref:typename:int	file:
+devcnt	pract5/pchar.c	/^static int devcnt = 3;$/;"	v	typeref:typename:int	file:
+devcnt	pract5/semaphore.c	/^static int devcnt = 3;$/;"	v	typeref:typename:int	file:
+devices	pract4/multi.c	/^struct pchar_device *devices;$/;"	v	typeref:struct:pchar_device *
+devices	pract5/1.c	/^struct pchar_device *devices;$/;"	v	typeref:struct:pchar_device *
+devices	pract5/pchar.c	/^struct pchar_device *devices;$/;"	v	typeref:struct:pchar_device *
+devices	pract5/semaphore.c	/^struct pchar_device *devices;$/;"	v	typeref:struct:pchar_device *
+devno	PCHAR/SIR/pchar.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	PCHAR/SIR_PCHAR.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	PCHAR/pchar.c	/^static dev_t devno;\/\/ for allocate device no$/;"	v	typeref:typename:dev_t	file:
+devno	pract4/multi.c	/^    dev_t devno;$/;"	m	struct:pchar_device	typeref:typename:dev_t	file:
+devno	pract4/one.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	pract4/test.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	pract5/1.c	/^    dev_t devno;$/;"	m	struct:pchar_device	typeref:typename:dev_t	file:
+devno	pract5/pchar.c	/^    dev_t devno;$/;"	m	struct:pchar_device	typeref:typename:dev_t	file:
+devno	pract5/semaphore.c	/^    dev_t devno;$/;"	m	struct:pchar_device	typeref:typename:dev_t	file:
+devno	pract6/gpio-intr/gpio-intr.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	pract6/gpio-led/gpio-led.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	pract6/gpio-switch/gpio-led-switch.c	/^static dev_t devno;$/;"	v	typeref:typename:dev_t	file:
+devno	pract6/intr.c	/^static dev_t devno;\/\/alloc_chrdev_region \/\/1$/;"	v	typeref:typename:dev_t	file:
+err1	CLEAR.c	/^	int ret1, ret2, err1, err2, s1, s2;$/;"	v	typeref:typename:int
+err2	CLEAR.c	/^	int ret1, ret2, err1, err2, s1, s2;$/;"	v	typeref:typename:int
+f_ops	PCHAR/SIR/pchar.c	/^static struct file_operations f_ops = {$/;"	v	typeref:struct:file_operations	file:
+f_ops	PCHAR/SIR_PCHAR.c	/^static struct file_operations f_ops = {$/;"	v	typeref:struct:file_operations	file:
+f_ops	PCHAR/pchar.c	/^static struct file_operations f_ops = {$/;"	v	typeref:struct:file_operations	file:
+init_module	pract1/HELLO.c	/^int init_module(void)$/;"	f	typeref:typename:int
+irq	pract6/gpio-intr/gpio-intr.c	/^static int irq;$/;"	v	typeref:typename:int	file:
+led_state	pract6/gpio-intr/gpio-intr.c	/^static int led_state;$/;"	v	typeref:typename:int	file:
+led_state	pract6/gpio-led/gpio-led.c	/^static int led_state;$/;"	v	typeref:typename:int	file:
+led_state	pract6/gpio-switch/gpio-led-switch.c	/^static int led_state;$/;"	v	typeref:typename:int	file:
+lock	pract5/1.c	/^    struct mutex lock;$/;"	m	struct:pchar_device	typeref:struct:mutex	file:
+lock	pract5/pchar.c	/^    struct mutex lock;$/;"	m	struct:pchar_device	typeref:struct:mutex	file:
+m1	CLEAR.c	/^	msg_t m1;$/;"	v	typeref:typename:msg_t
+m2	CLEAR.c	/^	msg_t m2;$/;"	v	typeref:typename:msg_t
+main	CLEAR.c	/^int main() {$/;"	f	typeref:typename:int
+main	PCHAR/SIR/pchar_test.c	/^int main(void)$/;"	f	typeref:typename:int
+main	PCHAR/SIR/pchar_test_lssek.c	/^int main(void)$/;"	f	typeref:typename:int
+main	PCHAR/SIR/pchar_test_rd.c	/^int main(void)$/;"	f	typeref:typename:int
+main	PCHAR/SIR/pchar_test_wr.c	/^int main(void)$/;"	f	typeref:typename:int
+main	PCHAR/pchar_test.c	/^int main(void)$/;"	f	typeref:typename:int
+main	PCHAR/pchar_test_lssek.c	/^int main(void)$/;"	f	typeref:typename:int
+main	PCHAR/pchar_test_rd.c	/^int main(void)$/;"	f	typeref:typename:int
+main	PCHAR/pchar_test_wr.c	/^int main(void)$/;"	f	typeref:typename:int
+main	ass1.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	day20.c	/^int main() {$/;"	f	typeref:typename:int
+main	pract5/pchar_test.c	/^int main() {$/;"	f	typeref:typename:int
+main	pract6/gpio-led/led_test.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	pract6/gpio-switch/switch-led-test.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	test.c	/^int main(void){$/;"	f	typeref:typename:int
+major	pract4/multi.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract4/one.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract4/test.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract5/1.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract5/pchar.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract5/semaphore.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract6/gpio-intr/gpio-intr.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract6/gpio-led/gpio-led.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract6/gpio-switch/gpio-led-switch.c	/^static int major;$/;"	v	typeref:typename:int	file:
+major	pract6/intr.c	/^static int major;\/\/alloc_chrdev_region \/\/1$/;"	v	typeref:typename:int	file:
+modparam_exit	pract3/4/1.c	/^static __exit void modparam_exit(void)$/;"	f	typeref:typename:__exit void	file:
+modparam_exit	pract4/mod.c	/^static __exit void modparam_exit(void)$/;"	f	typeref:typename:__exit void	file:
+modparam_init	pract3/4/1.c	/^static __init int modparam_init(void)$/;"	f	typeref:typename:__init int	file:
+modparam_init	pract4/mod.c	/^static __init int modparam_init(void)$/;"	f	typeref:typename:__init int	file:
+modules	Makefile	/^modules:$/;"	t
+modules	PCHAR/Makefile	/^modules:$/;"	t
+modules	PCHAR/SIR/Makefile	/^modules:$/;"	t
+modules	pract1/Makefile	/^modules:$/;"	t
+modules	pract2/Makefile	/^modules:$/;"	t
+modules	pract3/1/Makefile	/^modules:$/;"	t
+modules	pract3/2/Makefile	/^modules:$/;"	t
+modules	pract3/3/Makefile	/^modules:$/;"	t
+modules	pract3/4/Makefile	/^modules:$/;"	t
+modules	pract4/Makefile	/^modules:$/;"	t
+modules	pract5/Makefile	/^modules:$/;"	t
+mqid	CLEAR.c	/^	int mqid, ret;$/;"	v	typeref:typename:int
+msg_t	CLEAR.c	/^} msg_t;$/;"	t	typeref:struct:__anondf8b363d0108	file:
+msg_t	test.c	/^}msg_t;$/;"	t	typeref:struct:msgbuf	file:
+msgbuf	test.c	/^typedef struct msgbuf{$/;"	s	file:
+my_function	pract3/3/3.c	/^void my_function(void)$/;"	f	typeref:typename:void
+my_var	pract3/3/3.c	/^int my_var = 10;$/;"	v	typeref:typename:int
+name	pract3/4/1.c	/^static char *name = "desd";$/;"	v	typeref:typename:char *	file:
+name	pract4/mod.c	/^static char *name = "desd";$/;"	v	typeref:typename:char *	file:
+num	test.c	/^	int num;$/;"	m	struct:msgbuf	typeref:typename:int	file:
+obj-m	Makefile	/^obj-m = pchar.o$/;"	m
+obj-m	PCHAR/Makefile	/^obj-m = pchar.o$/;"	m
+obj-m	PCHAR/SIR/Makefile	/^obj-m = a.o$/;"	m
+obj-m	pract1/Makefile	/^obj-m = HELLO.o$/;"	m
+obj-m	pract2/Makefile	/^obj-m = 2.o$/;"	m
+obj-m	pract3/1/Makefile	/^obj-m = 1.o$/;"	m
+obj-m	pract3/2/Makefile	/^obj-m = splitfile.o$/;"	m
+obj-m	pract3/3/Makefile	/^obj-m = splitfile.o$/;"	m
+obj-m	pract3/4/Makefile	/^obj-m = 1.o$/;"	m
+obj-m	pract4/Makefile	/^obj-m = multi.o$/;"	m
+obj-m	pract5/Makefile	/^obj-m = 1.o$/;"	m
+obj-m	pract6/Makefile	/^obj-m = intr.o$/;"	m
+obj-m	pract6/gpio-intr/Makefile	/^obj-m = gpio-intr.o$/;"	m
+obj-m	pract6/gpio-led/Makefile	/^obj-m = gpio-led.o$/;"	m
+obj-m	pract6/gpio-switch/Makefile	/^obj-m = gpio-led-switch.o$/;"	m
+pcclass	pract4/test.c	/^static struct class *pcclass;$/;"	v	typeref:struct:class *	file:
+pchar_close	PCHAR/SIR/pchar.c	/^static int pchar_close(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_close	PCHAR/SIR_PCHAR.c	/^static int pchar_close(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_close	PCHAR/pchar.c	/^static int pchar_close(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_close	pract4/multi.c	/^static int pchar_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+pchar_close	pract4/one.c	/^static int pchar_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+pchar_close	pract5/1.c	/^static int pchar_close(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_close	pract5/pchar.c	/^static int pchar_close(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_close	pract5/semaphore.c	/^static int pchar_close(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+pchar_device	pract4/multi.c	/^struct pchar_device {$/;"	s	file:
+pchar_device	pract5/1.c	/^struct pchar_device$/;"	s	file:
+pchar_device	pract5/pchar.c	/^struct pchar_device$/;"	s	file:
+pchar_device	pract5/semaphore.c	/^struct pchar_device {$/;"	s	file:
+pchar_exit	PCHAR/SIR/pchar.c	/^static __exit void pchar_exit(void)$/;"	f	typeref:typename:__exit void	file:
+pchar_exit	PCHAR/SIR_PCHAR.c	/^static __exit void pchar_exit(void)$/;"	f	typeref:typename:__exit void	file:
+pchar_exit	PCHAR/pchar.c	/^static __exit void pchar_exit(void)$/;"	f	typeref:typename:__exit void	file:
+pchar_exit	pract4/multi.c	/^static __exit void pchar_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+pchar_exit	pract4/one.c	/^static __exit void pchar_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+pchar_exit	pract5/1.c	/^static __exit void pchar_exit(void)$/;"	f	typeref:typename:__exit void	file:
+pchar_exit	pract5/pchar.c	/^static __exit void pchar_exit(void)$/;"	f	typeref:typename:__exit void	file:
+pchar_exit	pract5/semaphore.c	/^static __exit void pchar_exit(void) {$/;"	f	typeref:typename:__exit void	file:
+pchar_fops	pract4/multi.c	/^static struct file_operations pchar_fops = {$/;"	v	typeref:struct:file_operations	file:
+pchar_fops	pract4/one.c	/^static struct file_operations pchar_fops = {$/;"	v	typeref:struct:file_operations	file:
+pchar_fops	pract4/test.c	/^static struct file_operations pchar_fops = $/;"	v	typeref:struct:file_operations	file:
+pchar_fops	pract5/1.c	/^static struct file_operations pchar_fops = {$/;"	v	typeref:struct:file_operations	file:
+pchar_fops	pract5/pchar.c	/^static struct file_operations pchar_fops = {$/;"	v	typeref:struct:file_operations	file:
+pchar_fops	pract5/semaphore.c	/^static struct file_operations pchar_fops = {$/;"	v	typeref:struct:file_operations	file:
+pchar_init	PCHAR/SIR/pchar.c	/^static __init int pchar_init(void)$/;"	f	typeref:typename:__init int	file:
+pchar_init	PCHAR/SIR_PCHAR.c	/^static __init int pchar_init(void)$/;"	f	typeref:typename:__init int	file:
+pchar_init	PCHAR/pchar.c	/^static __init int pchar_init(void)$/;"	f	typeref:typename:__init int	file:
+pchar_init	pract4/multi.c	/^static __init int pchar_init(void) {$/;"	f	typeref:typename:__init int	file:
+pchar_init	pract4/one.c	/^static __init int pchar_init(void) {$/;"	f	typeref:typename:__init int	file:
+pchar_init	pract4/test.c	/^static __init int pchar_init(void)$/;"	f	typeref:typename:__init int	file:
+pchar_init	pract5/1.c	/^static __init int pchar_init(void)$/;"	f	typeref:typename:__init int	file:
+pchar_init	pract5/pchar.c	/^static __init int pchar_init(void)$/;"	f	typeref:typename:__init int	file:
+pchar_init	pract5/semaphore.c	/^static __init int pchar_init(void) {$/;"	f	typeref:typename:__init int	file:
+pchar_lseek	PCHAR/SIR/pchar.c	/^static loff_t pchar_lseek(struct file *pfile, loff_t offset, int origin)$/;"	f	typeref:typename:loff_t	file:
+pchar_lseek	PCHAR/SIR_PCHAR.c	/^static loff_t pchar_lseek(struct file *pfile, loff_t offset, int origin)$/;"	f	typeref:typename:loff_t	file:
+pchar_lseek	PCHAR/pchar.c	/^static loff_t pchar_lseek(struct file *pfile, loff_t offset, int origin)$/;"	f	typeref:typename:loff_t	file:
+pchar_open	PCHAR/SIR/pchar.c	/^static int pchar_open(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_open	PCHAR/SIR_PCHAR.c	/^static int pchar_open(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_open	PCHAR/pchar.c	/^static int pchar_open(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_open	pract4/multi.c	/^static int pchar_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+pchar_open	pract4/one.c	/^static int pchar_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+pchar_open	pract5/1.c	/^static int pchar_open(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_open	pract5/pchar.c	/^static int pchar_open(struct inode *pinode, struct file *pfile)$/;"	f	typeref:typename:int	file:
+pchar_open	pract5/semaphore.c	/^static int pchar_open(struct inode *pinode, struct file *pfile) {$/;"	f	typeref:typename:int	file:
+pchar_read	PCHAR/SIR/pchar.c	/^static ssize_t pchar_read(struct file *pfile, char __user *ubuf, size_t size, loff_t *poffset)$/;"	f	typeref:typename:ssize_t	file:
+pchar_read	PCHAR/SIR_PCHAR.c	/^static ssize_t pchar_read(struct file *pfile, char __user *ubuf, size_t size, loff_t *poffset)$/;"	f	typeref:typename:ssize_t	file:
+pchar_read	PCHAR/pchar.c	/^static ssize_t pchar_read(struct file *pfile, char __user *ubuf, size_t size, loff_t *poffset)$/;"	f	typeref:typename:ssize_t	file:
+pchar_read	pract4/multi.c	/^static ssize_t pchar_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+pchar_read	pract4/one.c	/^static ssize_t pchar_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+pchar_read	pract5/1.c	/^static ssize_t pchar_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset)$/;"	f	typeref:typename:ssize_t	file:
+pchar_read	pract5/pchar.c	/^static ssize_t pchar_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset)$/;"	f	typeref:typename:ssize_t	file:
+pchar_read	pract5/semaphore.c	/^static ssize_t pchar_read(struct file *pfile, char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+pchar_write	PCHAR/SIR/pchar.c	/^static ssize_t pchar_write(struct file *pfile, const char __user *ubuf, size_t size, loff_t *pof/;"	f	typeref:typename:ssize_t	file:
+pchar_write	PCHAR/SIR_PCHAR.c	/^static ssize_t pchar_write(struct file *pfile, const char __user *ubuf, size_t size, loff_t *pof/;"	f	typeref:typename:ssize_t	file:
+pchar_write	PCHAR/pchar.c	/^static ssize_t pchar_write(struct file *pfile, const char __user *ubuf, size_t size, loff_t *pof/;"	f	typeref:typename:ssize_t	file:
+pchar_write	pract4/multi.c	/^static ssize_t pchar_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+pchar_write	pract4/one.c	/^static ssize_t pchar_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+pchar_write	pract5/1.c	/^static ssize_t pchar_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset)$/;"	f	typeref:typename:ssize_t	file:
+pchar_write	pract5/pchar.c	/^static ssize_t pchar_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset)$/;"	f	typeref:typename:ssize_t	file:
+pchar_write	pract5/semaphore.c	/^static ssize_t pchar_write(struct file *pfile, const char *ubuf, size_t size, loff_t *poffset) {$/;"	f	typeref:typename:ssize_t	file:
+pclass	PCHAR/SIR/pchar.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	PCHAR/SIR_PCHAR.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	PCHAR/pchar.c	/^static struct class *pclass;\/\/ for creating calss$/;"	v	typeref:struct:class *	file:
+pclass	pract4/multi.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract4/one.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract5/1.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract5/pchar.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract5/semaphore.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract6/gpio-intr/gpio-intr.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract6/gpio-led/gpio-led.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract6/gpio-switch/gpio-led-switch.c	/^static struct class *pclass;$/;"	v	typeref:struct:class *	file:
+pclass	pract6/intr.c	/^static struct class *pclass;\/\/class_create \/\/2$/;"	v	typeref:struct:class *	file:
+ret	CLEAR.c	/^	int arr[2], ret, s;$/;"	v	typeref:typename:int
+ret	CLEAR.c	/^	int arr[2], ret;$/;"	v	typeref:typename:int
+ret	CLEAR.c	/^	int cli_fd, ret;$/;"	v	typeref:typename:int
+ret	CLEAR.c	/^	int mqid, ret;$/;"	v	typeref:typename:int
+ret	CLEAR.c	/^	int serv_fd, cli_fd, ret;$/;"	v	typeref:typename:int
+ret1	CLEAR.c	/^	int ret1, ret2, err1, err2, s1, s2;$/;"	v	typeref:typename:int
+ret2	CLEAR.c	/^	int ret1, ret2, err1, err2, s1, s2;$/;"	v	typeref:typename:int
+s	CLEAR.c	/^	int arr[2], ret, s;$/;"	v	typeref:typename:int
+s	CLEAR.c	/^	int s;$/;"	v	typeref:typename:int
+s	pract5/semaphore.c	/^struct semaphore s; \/\/ semaphore declare$/;"	m	struct:pchar_device	typeref:struct:semaphore	file:
+s1	CLEAR.c	/^	int ret1, ret2, err1, err2, s1, s2;$/;"	v	typeref:typename:int
+s2	CLEAR.c	/^	int ret1, ret2, err1, err2, s1, s2;$/;"	v	typeref:typename:int
+semun	CLEAR.c	/^union semun {$/;"	u	file:
+serv_addr	CLEAR.c	/^	struct sockaddr_in serv_addr, cli_addr;$/;"	v	typeref:struct:sockaddr_in
+serv_addr	CLEAR.c	/^	struct sockaddr_in serv_addr;$/;"	v	typeref:struct:sockaddr_in
+serv_fd	CLEAR.c	/^	int serv_fd, cli_fd, ret;$/;"	v	typeref:typename:int
+shm	CLEAR.c	/^typedef struct shm {$/;"	s	file:
+shm_t	CLEAR.c	/^} shm_t;$/;"	t	typeref:struct:shm	file:
+sigint_handler	CLEAR.c	/^void sigint_handler(int sig) {$/;"	f	typeref:typename:void
+sigterm_handler	CLEAR.c	/^void sigterm_handler(int sig) {$/;"	f	typeref:typename:void
+socklen	CLEAR.c	/^	socklen_t socklen;$/;"	v	typeref:typename:socklen_t
+splitfile-objs	pract3/2/Makefile	/^splitfile-objs = 2.o 3.o$/;"	m
+splitfile-objs	pract3/3/Makefile	/^splitfile-objs = 1.o 2.o 3.o$/;"	m
+str	CLEAR.c	/^	char str[32];$/;"	m	struct:__anondf8b363d0108	typeref:typename:char[32]	file:
+str	CLEAR.c	/^	char str[64];$/;"	v	typeref:typename:char[64]
+switch_isr	pract6/gpio-intr/gpio-intr.c	/^static irqreturn_t switch_isr(int irq, void *param) {$/;"	f	typeref:typename:irqreturn_t	file:
+thread1	test.c	/^void *thread1(void *param){$/;"	f	typeref:typename:void *
+thread2	test.c	/^void *thread2(void *param){$/;"	f	typeref:typename:void *
+type	CLEAR.c	/^	long type;$/;"	m	struct:__anondf8b363d0108	typeref:typename:long	file:
+type	test.c	/^	long type;$/;"	m	struct:msgbuf	typeref:typename:long	file:
+val	CLEAR.c	/^	int              val;    \/* Value for SETVAL *\/$/;"	m	union:semun	typeref:typename:int	file:
+value	pract3/4/1.c	/^static int value = 3;$/;"	v	typeref:typename:int	file:
+value	pract4/mod.c	/^static int value = 3;$/;"	v	typeref:typename:int	file:

@@ -1,0 +1,1 @@
+savedcmd_/home/om/Desktop/DESD/eldd/Day11/keyboard-ioports/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/om/Desktop/DESD/eldd/Day11/keyboard-ioports/Module.symvers -T /home/om/Desktop/DESD/eldd/Day11/keyboard-ioports/modules.order -i Module.symvers -e 

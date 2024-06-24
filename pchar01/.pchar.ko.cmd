@@ -1,0 +1,1 @@
+cmd_/home/om/Desktop/DESD/eldd/Day06/pchar01/pchar.ko := arm-linux-gnueabihf-ld -r -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/om/Desktop/DESD/eldd/Day06/pchar01/pchar.ko /home/om/Desktop/DESD/eldd/Day06/pchar01/pchar.o /home/om/Desktop/DESD/eldd/Day06/pchar01/pchar.mod.o ;  true

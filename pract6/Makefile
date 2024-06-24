@@ -1,10 +1,11 @@
 
-obj-m = workq.o
+obj-m = intr.o
 
-modules:
+all:
 	make -C /lib/modules/`uname -r`/build M=`pwd` modules
 
 clean:
 	make -C /lib/modules/`uname -r`/build M=`pwd` clean
 
-.phony : clean
+.PHONY: all clean
+
